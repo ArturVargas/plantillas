@@ -1,0 +1,36 @@
+
+.carousel-inner img {
+  width: 100%;
+  height: 580px;
+}
+
+.card {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 180px;
+  border-width: 2px !important;
+}
+.card:hover {
+  border-width: 2px !important;
+  border-color: #17a2b8;
+  box-shadow: 5px 10px 15px #888888;
+}
+
+.contact .desc{
+ padding: 2em;
+ border-left:4px solid #17a2b8;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("../../portfolio/img/audi-rs7.jpg");
+
+    /* Set a specific height */
+    min-height: 300px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
