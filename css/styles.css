@@ -23,7 +23,7 @@
 
 .parallax {
     /* The image used */
-    background-image: url("../../portfolio/img/audi-rs7.jpg");
+    background-image: url("../img/audi-rs7.jpg");
 
     /* Set a specific height */
     min-height: 300px;
